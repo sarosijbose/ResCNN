@@ -1,6 +1,6 @@
 # ResCNN: A novel CNN Implementation for bigger and more resilient batch processing and learning from Images.
 
-*This work has been accepted at [UPCON 2021](http://upcon2021.in/). The pre-print version will be up soon.*  
+*This work has been accepted at [UPCON 2021](http://upcon2021.in/). The paper will be available in the IEEE Xplore library soon.*  
 *Authors: [Avirup Dey](https://avirupju.github.io/) and [Sarosij Bose](https://sarosijbose.github.io/)*
 
 ## Description:-
