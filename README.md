@@ -19,7 +19,7 @@ Please consider citing this work if you found it useful.
 ## Description:-
 Here we implement ResCNN, a Convolutional neural network featured as an viable alternative to traditional CNNs for Deep learning. We first convert the traditional convolution operation into a purely matrix based form which is based on the theory of [unrolling](https://hal.inria.fr/inria-00112631/document) convolution. Such an implementation allows us to employ some Image processing techniques mainly focusing on compression of images. One such technique used here is [SVD](https://en.wikipedia.org/wiki/Singular_value_decomposition), which is applied on entire dataset/Images and then fed into our convolutional network. We further experiment with various sets of hyperparameters to show that our network is able to learn at a much higher rate without collapsing like a standard CNN Model whose detailed comparisons are done below. Further, we also show that such improvement can be brought about without significant cost overheads or employment of GPUs. 
 
-**Paper** : https://doi.org/10.1109/UPCON52273.2021.9667654 
+**Paper** : https://doi.org/10.1109/UPCON52273.2021.9667654  
 **Slides** : https://sarosijbose.github.io/files/ResCNN_UPCON_2021_Slides.pdf 
 
 ## Setup:-  
